@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## A Simple Python Implementation of Part-of-Speech Tagging with HMM
 
@@ -25,3 +26,7 @@ python forward.py
 ```
 python measure.py
 ```
+=======
+# HMM_POS
+a simple implementation of part-of-speech tagging with hmm
+>>>>>>> bf5007b1049424b880059a6f64a3cf2599941e2f
